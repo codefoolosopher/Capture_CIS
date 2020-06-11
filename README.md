@@ -33,7 +33,8 @@ Cadence Capture CIS Configuration with MSSQL
 
 
 **3. PartDB구축**
-> [3.1. SSMS이용 PartDB구축](https://github.com/codefoolosopher/Capture_CIS/wiki/3.%ED%8C%8C%ED%8A%B8-DB%EA%B5%AC%EC%B6%95)
+> [3.1. SSMS이용 PartDB구축(예정)](https://github.com/codefoolosopher/Capture_CIS/wiki/3.%ED%8C%8C%ED%8A%B8-DB%EA%B5%AC%EC%B6%95)
+>
 > [3.2. T-SQL이용 PartDB구축(예정)](https://github.com/codefoolosopher/Capture_CIS/wiki/3.2.-TSQL%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%8C%8C%ED%8A%B8-DB%EA%B5%AC%EC%B6%95)
 
 **4. Capture CIS 클라이언트 구성**
