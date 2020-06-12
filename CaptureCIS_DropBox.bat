@@ -1,1 +1,0 @@
-c:\Cadence\SPB_17.4\tools\bin\Capture.exe -i %CDS_SITE%
